@@ -1,0 +1,6 @@
+{
+  "database": {
+    "pb": "sqlite:///phonebook.db",
+    "log": "sqlite:///audit_log.db"
+  }
+}
